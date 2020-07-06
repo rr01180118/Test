@@ -1,0 +1,1 @@
+{"dependencies": [], "description": "\ud83d\udd27 Verilog plugin for Sublime Text 2/3. It helps to generate a simple testbench, instantiate a module, insert a user-header, repeat codes with formatted incremental/decremental numbers, etc.", "platforms": ["*"], "url": "https://github.com/poucotm/Verilog-Gadget", "version": "1.8.0", "sublime_text": "*"}
